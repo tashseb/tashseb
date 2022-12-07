@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" "length: 30%" />
 </div>  
   
-### <div align="center">I'm [Tashika](https://tashseb.github.io/profile/), a passionate Full-Stack Developer 👨‍💻 based in Chiba</div>  
+# <div align="center">I'm [Tashika](https://tashseb.github.io/profile/), a passionate Full-Stack Developer 👨‍💻 based in Chiba</div>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
