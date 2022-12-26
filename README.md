@@ -4,6 +4,10 @@
   
 # <div align="center">I'm [Tashika](https://tashseb.github.io/profile/), a passionate Full-Stack Developer 👨‍💻 based in Chiba</div>  
 
+🧠 <b>Currently learning:</b> JavaScript and React <br>
+🚀 <b>Working on:</b> [JavaScript30](https://javascript30.com/), [The Odin Project](https://www.theodinproject.com) <br>
+🚙 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) Batch #1017 <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tashikacruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tashikacruz" height="30" width="40" /></a>
