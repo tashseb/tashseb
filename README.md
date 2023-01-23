@@ -4,8 +4,7 @@
   
 # <div align="center">I'm [Tashika](https://tashseb.github.io/profile/), a passionate Full-Stack Developer 👨‍💻 based in Chiba</div>  
 
-🧠 <b>Currently learning:</b> React <br>
-🚀 <b>Working on:</b> [JavaScript30](https://javascript30.com/), [The Odin Project](https://www.theodinproject.com) <br>
+🧠 <b>Currently learning:</b> Python and Flutter <br>
 🚙 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) Batch #1017 <br>
 
 <h3 align="left">Connect with me:</h3>
