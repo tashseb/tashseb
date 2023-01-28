@@ -1,14 +1,14 @@
 
-<b><h3>Hi! I'm [Tashika](https://tashseb.github.io/profile/)! I am a passionate Full-Stack Developer 👩‍💻 based in Chiba!</h3></br>  
+<h3>Hi! I'm [Tashika](https://tashseb.github.io/profile/)! I am a passionate Full-Stack Developer 👩‍💻 based in Chiba!</h3>
 🧠 <b>Currently learning:</b> Python and CS50 <br>
 🚙 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) Batch #1017 <br>
 
-## Connect with me:
+# Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/tashikacruz" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="tashikacruz" /></a>
 </p>
 
-## Stack: 
+# Stack: 
 <table><tr><td valign="top" width="25%">
   
 <div align="left">
@@ -61,11 +61,9 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  
-                                                                                                                                     
+                                                           
 
-
-## Github Stats  
+# Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashseb&hide_border=true&layout=compact" align="center" /><
 
 <img src="https://github-readme-stats.vercel.app/api?username=tashseb&show_icons=true&count_private=true&hide_border=true" align="left" />  
