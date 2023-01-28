@@ -51,7 +51,7 @@
 
 </td></tr>
 
-<tr><td valign="top">
+<tr><td valign="top width="100%"">
   <h4 align="left">Other tools:</h3>     
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />         
