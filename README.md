@@ -1,10 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" "length: 30%" />
 </div>  
-  
 # <div align="center">I'm [Tashika](https://tashseb.github.io/profile/), a passionate Full-Stack Developer 👨‍💻 based in Chiba</div>  
 
-🧠 <b>Currently learning:</b> Python and Flutter <br>
+🧠 <b>Currently learning:</b> Python and CS50 <br>
 🚙 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) Batch #1017 <br>
 
 <h3 align="left">Connect with me:</h3>
