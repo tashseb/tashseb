@@ -1,4 +1,4 @@
-## About me:
+
 👩‍💻 <b>Hi! I'm [Tashika](https://tashseb.github.io/profile/)! I am a passionate Full-Stack Developer 👨‍💻 based in Chiba!</br>  
 🧠 <b>Currently learning:</b> Python and CS50 <br>
 🚙 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) Batch #1017 <br>
