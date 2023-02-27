@@ -69,11 +69,12 @@
 
 
 ## Github Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tashseb&hide_border=true&layout=compact" align="left" />
 <img src="https://github-readme-stats.vercel.app/api?username=tashseb&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashseb&hide_border=true&layout=compact" align="left" />
 <br/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tashseb&hide_border=true&layout=compact" align="left" />
+
 
 
 <br/>  
