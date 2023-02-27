@@ -70,7 +70,9 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashseb&hide_border=true&layout=compact" align="center" /><
-
+![](https://github-readme-stats.vercel.app/api?username=SmackDH&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SmackDH&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SmackDH&theme=tokyonight&layout=compact)
 <img src="https://github-readme-stats.vercel.app/api?username=tashseb&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
