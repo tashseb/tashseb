@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Fullstack Developer based in Chiba, Japan.</h3>
 
 ## About me:
-🧠 <b>Currently learning:</b> Vue, TypeScript and CS50 <br>
+🧠 <b>Currently learning:</b> Vue, TypeScript<br>
 🚙 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) Batch #1017 <br>
 
 ## Connect with me:
