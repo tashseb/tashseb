@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tashika!</h1>
-<h3 align="center">I'm a passionate Fullstack Developer based in Chiba, Japan.</h3>
-
-## About me:
-🧠 <b>Currently learning:</b> Vue, TypeScript<br>
-🚙 <b>Studied at:</b> [Le Wagon Tokyo](https://www.lewagon.com/tokyo) Batch #1017 <br>
-
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/tashikacruz" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="tashikacruz" /></a>
@@ -26,7 +19,6 @@
 <div align="left">
   <h3> Languages </h3>
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
