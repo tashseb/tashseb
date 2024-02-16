@@ -1,7 +1,3 @@
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/tashikacruz" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="tashikacruz" /></a>
-</p>
 
 ## Stack: 
 <table><tr><td valign="top" width="25%">
